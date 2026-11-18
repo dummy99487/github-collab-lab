@@ -17,4 +17,4 @@
 
 ## EDITEDITEDITEDITEDITEDIT
 
-- edit by B
+GitHub
